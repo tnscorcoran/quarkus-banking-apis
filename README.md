@@ -1,1 +1,1 @@
-# quarkus-banking-apis
+# Banking APIs
